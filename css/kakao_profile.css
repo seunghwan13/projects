@@ -1,0 +1,84 @@
+.profile-status-message {
+    text-align: center;
+    color: white;
+    font-size: 13pt;
+}
+
+.i {
+    width: 30px;
+    height: 30px;
+}
+
+.png {
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 9pt;
+}
+
+.chat-me-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-manage-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.kakao-story-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 480px;
+    height: 800px;
+    border: 1px solid lightgray;
+    margin: 50px auto;
+    position: relative;
+}
+
+.peach-box {
+    height: 450px;
+    background-color: peachpuff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+bottom-box {
+    position: absolute;
+    height: 250px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0px 100px;
+}
+
+.h3fit {
+    text-align: center;
+    top: 600px;
+}
+
+.ttochi {
+    
+    width: 100px;
+    height: 100px;
+    top: 300px;
+    left: 190px;
+    object-fit: cover;
+    border: none;
+    border-radius: 40px;
+    display: flex;
+
+}
