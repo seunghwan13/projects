@@ -1,0 +1,32 @@
+.container {
+    background-color: white;
+    height: 100vmin;
+    width: 100vmin;
+    position: relative;
+    object-fit: contain;
+}
+
+.icon {
+    float: left;
+    max-width: 10%; height: 10%;
+    background-size: cover;
+}
+
+.story {
+    float: left;
+    max-width: 10%; height: 10%;
+    background-size: cover;
+}
+
+.line {
+    float: bottom;
+}
+
+.save {
+    float: right;
+}
+
+.comment {
+    float: left;
+}
+
